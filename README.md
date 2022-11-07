@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VEER VIKRAM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="center" width="100%" src="https://miro.medium.com/max/720/0*C-cPP9D2MIyeexAT.gif" alt="veer-vikram" />" alt="veer-vikram" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-vikram&label=Profile%20views&color=0e75b6&style=flat" alt="veer-vikram" /> </p>
 
 - 🔭 I’m currently working on [ERP for st. xavier's public school](https://drive.google.com/drive/folders/1wXI_38TYoiZDkCJ_sigh4WhCmp86wV2I?usp=sharing)
