@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VEER VIKRAM</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" width="39%" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="code-image" />
+<img align="center" width="30%" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="code-image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-vikram&label=Profile%20views&color=0e75b6&style=flat" alt="veer-vikram" /> </p>
 
