@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects (only public) are available at [https://github.com/veer-vikram](https://github.com/veer-vikram)
 
-- 📝 I regularly write articles on [https://afternoon-escarpment-29455.herokuapp.com/](https://afternoon-escarpment-29455.herokuapp.com/)
+- 📝 I regularly write articles on [https://yourveervikram.web.app](https://yourveervikram.web.app)
 
 - 💬 Ask me about **Web Dev , Android Dev**
 
