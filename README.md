@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://yourveervikram.web.app](https://yourveervikram.web.app)
 
-- 💬 Ask me about **Web Dev , Android Dev , 2d 3d Gane Dev , Machine Learning , Artificial Intelligence , etc..**
+- 💬 Ask me about **Web Dev , Android Dev , 2d 3d Game Dev , Computer Vision , Machine Learning ( data modelling using regression), Artificial Intelligence , etc..**
 
 - 📫 How to reach me **vikram.veer162@gmail.com**
 
