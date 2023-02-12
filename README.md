@@ -27,3 +27,5 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveervikram&langs_count=8&layout=compact&theme=radical" alt="iamveervikram" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=iamveervikram&show_icons=true&theme=radical" alt="iamveervikram" />
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=iamveervikram)](https://github.com/anuraghazra/github-readme-stats)
+
