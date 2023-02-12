@@ -26,7 +26,7 @@
 
 
 <a href="https://github.com/iamveervikram/iamveervikram">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveervikram&theme=radical"&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamveervikram&count_private=true&theme=radical"&langs_count=10" />
 </a>
 <a href="https://github.com/iamveervikram/iamveervikram">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamveervikram&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Martin's GitHub Stats" />
