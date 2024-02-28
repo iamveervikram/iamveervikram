@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VEER VIKRAM</h1>
-<h3 align="center">A passionate full stack web developer , android developer and blockchain developer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer full stack web developer , android developer and blockchain developer from India</h3>
 <img align="center" width="30%" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="code-image" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-vikram&label=Profile%20views&color=0e75b6&style=flat" alt="veer-vikram" /> </p>
@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://yourveervikram.web.app](https://yourveervikram.web.app)
 
-- 💬 Ask me about **Web Dev , Android Dev , Blockchain Development , 2d 3d Game Dev , Computer Vision , Machine Learning ( data modelling using regression), Artificial Intelligence , etc..**
+- 💬 Ask me about **Web Dev , Android Dev , Blockchain Development , 2d 3d Game Dev , Computer Vision , Machine Learning Engineer, Artificial Intelligence , etc..**
 
 - 📫 How to reach me **vikram.veer162@gmail.com**
 
