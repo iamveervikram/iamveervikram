@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VEER VIKRAM</h1>
-<h5 align="center">IIT BHUBANESWAR' CSE</h1>
+<h5 align="center">IIT BHUBANESWAR' CSE || ML & AI</h1>
 <h3 align="center">A passionate Machine Learning Engineer, full stack web developer , android developer and blockchain developer from India</h3>
 <img align="center" width="30%" height="200" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" alt="code-image" />
 
