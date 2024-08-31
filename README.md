@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=veer-vikram&label=Profile%20views&color=0e75b6&style=flat" alt="veer-vikram" /> </p>
 
-- 🔭 I’m currently working on [ERP for st. xavier's public school](https://drive.google.com/drive/folders/1wXI_38TYoiZDkCJ_sigh4WhCmp86wV2I?usp=sharing)
+- 🔭 I’m currently working on [Machine learning and artifical intelligence research]
 
 - 🌱 I’m currently learning Advance DSA **Data Structure and Algorithm**
 
