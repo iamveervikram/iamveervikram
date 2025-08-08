@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects (only public) are available at [https://github.com/iamveervikram](https://github.com/iamveervikram)
 
-- 📝 I regularly write articles on [https://yourveervikram.web.app](https://yourveervikram.web.app)
+- 📝 I regularly write articles on [https://iamveervikram.github.io](https://iamveervikram.github.io)
 
 - 💬 Ask me about **Web Dev , Android Dev , Blockchain Development , 2d 3d Game Dev , Computer Vision , Machine Learning Engineer, Artificial Intelligence , etc..**
 
